@@ -1,1 +1,1 @@
-# bookbot
+A simple bot
